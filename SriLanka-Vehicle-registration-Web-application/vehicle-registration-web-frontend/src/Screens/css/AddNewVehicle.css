@@ -1,0 +1,21 @@
+.AddNewSection{
+    width: 90%;
+    min-height: 90vh;
+}
+.AddNewSection .container{
+    width: 80%;
+}
+
+form{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+form label{
+    font-weight: bold;
+    opacity: 0.9;
+}
+
+
+
+

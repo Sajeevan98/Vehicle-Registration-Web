@@ -1,0 +1,11 @@
+span{
+    font-size: small;
+}
+
+span b{
+    font-size: medium;
+}
+
+span a:hover{
+    text-decoration: none;
+}
